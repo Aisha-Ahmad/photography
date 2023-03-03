@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+/* Header Section */
+.header-parent {
+    color: white;
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+}
+
+
+.header-heading {
+    font-size: 45px;
+    padding-bottom: 30px;
+}
+
+.header-paragraph {
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+}
+
+.header-heading {
+    margin: 0;
+}
